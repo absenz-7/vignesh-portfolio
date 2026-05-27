@@ -4,9 +4,10 @@ import "./works.css";
 const Works =()=>{
     return (
         <>
-        <div classname="myworks">
-            <div className="first">
-            </div>
+        <div className="myworks">
+            <div className="first"></div>
+                <div className="second"></div>
+                
         </div>
         </>
     )
