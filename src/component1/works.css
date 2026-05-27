@@ -1,0 +1,11 @@
+* { margin: 0; padding: 0; box-sizing: border-box; color: rgb(226, 160, 7);}
+.myworks {
+    width: 100%;
+    height: 100vh;
+}.first {
+    width:30%;
+    height: 20vh;
+    background: blue;
+    margin-left: 250px;
+    margin-top: 30px;
+}
