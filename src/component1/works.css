@@ -6,13 +6,98 @@
 }.first {
     width:30%;
     height: 30vh;
-    background: blue;
+    background: rgb(255, 204, 0);
     margin-left: 250px;
     margin-top: 50px;
 }.second {
     width:30%;
     height: 30vh;
-    background: blue;
+    background: rgb(255, 204, 0);
     margin-left: 750px;
     margin-top: -233px;
+}.sk-head {
+    margin-left: 450px;
+    font-size: 60px;
+    margin-top: 85px;
+}.sk-bio {
+    font-size: 18px;
+    margin-left: 500px;
+}
+
+.pyt-bg{
+    width: 350px;
+    height: 270px;
+    background: rgba(245, 163, 0, 0.684);
+    margin-left: 250px;
+    margin-top: 50px;
+    border-radius: 15px;
+}
+.py {
+    margin-left: 380px;
+    margin-top: -255px;
+}
+.py-head {
+    margin-left: 380px;
+    margin-top: 5px;
+    color: black;
+}.py-bio {
+    color: black;
+    font-size: 17px;
+    margin-left: 265px;
+    margin-top: 14px;
+}
+
+
+
+.js-bg{
+    width: 350px;
+    height: 270px;
+    background: rgba(245, 163, 0, 0.684);
+    margin-left: 250px;
+    margin-top: 50px;
+    border-radius: 15px;
+}
+.js {
+    margin-left: 380px;
+    margin-top: -255px;
+}
+.js-head {
+    margin-left: 363px;
+    margin-top: 5px;
+    color: black;
+}.js-bio {
+    color: black;
+    font-size: 17px;
+    margin-left: 265px;
+    margin-top: 14px;
+}.javascript {
+    margin-left: 386px;
+    margin-top: -287px;
+}
+
+
+.h-bg{
+    width: 350px;
+    height: 270px;
+    background: rgba(245, 163, 0, 0.684);
+    margin-left: 250px;
+    margin-top: 50px;
+    border-radius: 15px;
+}
+.h {
+    margin-left: 380px;
+    margin-top: -255px;
+}
+.h-head {
+    margin-left: 395px;
+    margin-top: 5px;
+    color: black;
+}.h-bio {
+    color: black;
+    font-size: 17px;
+    margin-left: 265px;
+    margin-top: 14px;
+}.html {
+    margin-left: 770px;
+    margin-top: -267px;
 }
